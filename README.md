@@ -194,5 +194,5 @@ IP: 141.105.55.xxx, провайдер: Closed Joint Stock Company TransTeleCom/
 
 Скриншот LinkedIn:
 
-![img](https://github.com/kio38/dpic/blob/master/1.png)
+![img](https://github.com/kio38/dpicc/blob/master/1.png)
 
